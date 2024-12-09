@@ -1,7 +1,7 @@
 # SQL-Fifa19-discriptive-analysis
 ![fifa19](https://user-images.githubusercontent.com/118667586/206905841-9fd75d37-8bfa-44e7-b918-35ef9bd8b135.gif)
 
-I have taken fifa19 dataset and performed analysis on it and found some interesting insights.
+I have taken the fifa19 dataset and performed analysis on it and found some interesting insights.
 
 # Tool used to perform analysis- Microsoft SQL Server Management studio
 
@@ -24,4 +24,4 @@ I have taken fifa19 dataset and performed analysis on it and found some interest
 * 12,823 players prefer right and 3,820 players prefer left leg
 * Jersey number 10 is the luckiest number based on total wage
 
-# Thank You
+# Thank You!
